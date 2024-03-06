@@ -18,7 +18,7 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 > [!NOTE]
 > This is an unofficial mirror fork of the original repository.
-> I did not write the Readme.
+> I did not write the Readme. The Patreon links don't work.
 
 <p align="center">
     <!-- <a href="https://dev.azure.com/yuzu-emu/yuzu/">
